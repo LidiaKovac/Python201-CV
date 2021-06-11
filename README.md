@@ -9,3 +9,7 @@ I am a MERN Stack developer, recently graduated from Strive School. This means I
 As part of some autonomous exploration, I am trying out different things. You can find a list of what I have explored so far and what I plan to try next on my GitHub page. 
 
 This is the repository for the basics of Computer Vision. I am following <a href='https://classroom.udacity.com/courses/ud810'>this</a> free course.
+
+Since this course also covers a lot of theory, I have two markdown files, one for the course notes and one for the ideas that come to mind. 
+
+The course's material is written in Matlab but the instructor specified it's possible to make everything in Python using OpenCV and that it's much closer to a real world scenario. 
