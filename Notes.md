@@ -10,5 +10,6 @@ Images have become of maximum importance in our everyday life. The manipulation 
 OCR, face and blink detection, smile shutter, are examples of computer vision. In a related way you can recognize objects, art pieces and statues. Computer vision also helps with motion capture and cgi, 3d modeling, sports, robotics, games, security, medical imaging. 
 
 ## Images as functions
-An image is nothing but a function of x and y. The higher the value, the brighter the color. Computer vision compute something from a function like this, often by outputting another image.
-$$ I(y,y) $$
+An image is nothing but a function of x and y (=> I(x,y)). The higher the value, the brighter the color. Computer vision compute something from a function like this, often by outputting another image. 
+We can think of images as a function from R^2 to R. It's going to be defined over some bounds (the rectangle), and a finite range (0,255).  
+[](https://imgur.com/HBht7sc)
