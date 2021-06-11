@@ -12,4 +12,4 @@ OCR, face and blink detection, smile shutter, are examples of computer vision. I
 ## Images as functions
 An image is nothing but a function of x and y (=> I(x,y)). The higher the value, the brighter the color. Computer vision compute something from a function like this, often by outputting another image. 
 We can think of images as a function from R^2 to R. It's going to be defined over some bounds (the rectangle), and a finite range (0,255).  
-[](https://imgur.com/HBht7sc)
+![](https://imgur.com/HBht7sc.png)
