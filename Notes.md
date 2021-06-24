@@ -20,3 +20,5 @@ A complete function of an image would be `f:[10,210]x[15,165] -> [0,10]`, where 
 
 Each pixel in RGB images have three **channels**, red, green and blue: `f: RxR -> R^3`, where R^3 is the three RGB channels. 
 Images are usually represented as **matrixes**, which is a table with all the values for each pixel. 
+
+**Note** From here on I started coding! :D 
