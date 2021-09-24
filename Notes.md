@@ -22,3 +22,10 @@ Each pixel in RGB images have three **channels**, red, green and blue: `f: RxR -
 Images are usually represented as **matrixes**, which is a table with all the values for each pixel. 
 
 **Note** From here on I started coding! :D 
+
+**Update!** _24/09_ I have spent quite some time away from this project. It's starting to become a little to math-y for me, but I'll stick to this because I have so many ideas!  
+
+**QUESTIONS**: 
+
+- Say I have created my histogram and I wanted to save it as an image to use it externally (in a website for example). How would I do so? 
+- Same goes for broadcasting it. Let's say I want to have a web page with a video stream and the histogram next to it. How would I do this?
